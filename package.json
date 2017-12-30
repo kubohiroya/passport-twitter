@@ -45,5 +45,6 @@
   },
   "scripts": {
     "test": "node_modules/.bin/mocha --require test/bootstrap/node test/*.test.js"
-  }
+  },
+  "typings": "./lib/index.d.ts"
 }
